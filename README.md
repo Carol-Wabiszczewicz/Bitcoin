@@ -1,3 +1,3 @@
 # Bitcoin
 
-Login page and password of a cryptocurrency financial website
+Login page and SIgnup of a cryptocurrency financial website
